@@ -1,6 +1,6 @@
 # SIT323 5.2D: Deploying a Dockerized Microservice to Google Cloud
 
-This README provides detailed instructions for deploying your Dockerized Node.js microservice to Google Cloud using Artifact Registry. Follow the steps below to build, tag, push, and verify your image in Google Cloud.
+This README provides detailed instructions for deploying my Dockerized Node.js microservice to Google Cloud using Artifact Registry. Follow the steps below to build, tag, push, and verify my image in Google Cloud.
 
 ---
 
